@@ -63,15 +63,15 @@ Each exercise object has the following fields:
 ## Rules
 Currently, two types of rules are implemented. You can add more rules for better guidance.
 
--   ### make_angle_rule
-  -   Takes three joint indices from your exercise’s joint lists.
-  -   define minimum and maximun angle that is corect
-  -   Define minimum and maximum angles to specify the correct range.
+-   ### make_angle_rule :
+    -   Takes three joint indices from your exercise’s joint lists.
+    -   define minimum and maximun angle that is corect
+    -   Define minimum and maximum angles to specify the correct range.
   
--   ### make_x_rule
-  - Takes two joint indices from your exercise’s joint lists.
-  - Calculates the distance between these two joints along the X-axis.
-  - Define the MSE threshold. If the calculated value is larger than this number, the position is considered incorrect.
+-   ### make_x_rule :
+    - Takes two joint indices from your exercise’s joint lists.
+    - Calculates the distance between these two joints along the X-axis.
+    - Define the MSE threshold. If the calculated value is larger than this number, the position is considered incorrect.
 
 
 ## Installation
@@ -87,6 +87,7 @@ pip install -r requirements.txt
 
 -   Developed by **Shervin**
 -   Built for fun, fitness, and learning 😄
+
 
 
 
