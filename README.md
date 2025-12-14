@@ -11,17 +11,17 @@ The model detects your joints, analyzes your body angles, highlights and incorre
 
 ### 🔹 Detecting Angles
 
-<img src="samples/shoulder1.jpg" width="700">
+<img src="samples/shoulder1.jpg" width="400">
 
-<img src="samples/bicep1.jpg" width="700">
+<img src="samples/bicep1.jpg" width="400">
 
-<img src="samples/bicep2.jpg" width="700">
+<img src="samples/bicep2.jpg" width="400">
 
-<img src="samples/bicep3.jpg" width="700">
+<img src="samples/bicep3.jpg" width="400">
 
-<img src="lunges1.jpg" width="700">
+<img src="lunges1.jpg" width="400">
 
-<img src="lunges2.jpg" width="700">
+<img src="lunges2.jpg" width="400">
 
 ------------------------------------------------------------------------
 
@@ -58,3 +58,4 @@ pip install -r requirements.txt
 
 -   Developed by **Shervin**
 -   Built for fun, fitness, and learning 😄
+
