@@ -19,9 +19,9 @@ The model detects your joints, analyzes your body angles, highlights and incorre
 
 <img src="samples/bicep3.jpg" width="400">
 
-<img src="lunges1.jpg" width="400">
+<img src="samples/lunges1.jpg" width="400">
 
-<img src="lunges2.jpg" width="400">
+<img src="samples/lunges2.jpg" width="400">
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,5 @@ pip install -r requirements.txt
 
 -   Developed by **Shervin**
 -   Built for fun, fitness, and learning 😄
+
 
